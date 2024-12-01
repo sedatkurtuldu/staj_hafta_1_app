@@ -19,10 +19,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.sedatkurtuldu.staj_hafta_1_app"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "96ce8d68-4bc8-4c0e-bd66-aa46b751d501"
+      }
+    },
+    "owner": "sedatkurtuldu"
   }
 }
